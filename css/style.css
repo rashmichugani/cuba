@@ -272,7 +272,7 @@ h2{
 .story{
 	margin: 50px auto;
 	min-width: 980px;
-	overflow: auto;
+	
 	width: 980px;
 	padding-left: 8em;
 	position: absolute;
@@ -281,7 +281,7 @@ h2{
 	font-size: 14px;
 	/*margin: 0 auto;
 	min-width: 980px;
-	overflow: auto;
+	
 	width: 980px;*/
 }
 
