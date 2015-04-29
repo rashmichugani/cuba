@@ -26,6 +26,7 @@ p, ul{
     color:#FFF;
 	text-align: left;
 	width: 100%;
+	text-shadow: 15px 15px 4px black;
 }
 div{
 	
@@ -37,7 +38,7 @@ div{
     font-color: #FFF;
     color:#FFF;
 	text-align: left;
-	
+	text-shadow: 2px 2px 2px black;
 }
 
 img{
@@ -52,6 +53,7 @@ h1{
 	width: 900px;
 	font-family: 'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Arial,sans-serif;
 	color:#FFF;
+	text-shadow: 2px 2px 2px black;
 }
 h2{
 	font-color: #000;
@@ -62,6 +64,7 @@ h2{
 	font-family: 'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-style: italic;
 	color:#FFF;
+	text-shadow: 2px 2px 2px black;
 }
 
 #header h1, #pixels{
